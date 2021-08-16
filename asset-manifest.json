@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-dashboard-formik/static/css/main.a617e044.chunk.css",
+    "main.js": "/React-dashboard-formik/static/js/main.a02265aa.chunk.js",
+    "main.js.map": "/React-dashboard-formik/static/js/main.a02265aa.chunk.js.map",
+    "runtime-main.js": "/React-dashboard-formik/static/js/runtime-main.468a3cf5.js",
+    "runtime-main.js.map": "/React-dashboard-formik/static/js/runtime-main.468a3cf5.js.map",
+    "static/js/2.f7a84654.chunk.js": "/React-dashboard-formik/static/js/2.f7a84654.chunk.js",
+    "static/js/2.f7a84654.chunk.js.map": "/React-dashboard-formik/static/js/2.f7a84654.chunk.js.map",
+    "index.html": "/React-dashboard-formik/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/React-dashboard-formik/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.f7a84654.chunk.js.LICENSE.txt": "/React-dashboard-formik/static/js/2.f7a84654.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.468a3cf5.js",
+    "static/js/2.f7a84654.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.a02265aa.chunk.js"
+  ]
+}
